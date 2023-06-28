@@ -1,0 +1,17 @@
+{
+  "id": "test-module-please-ignore",
+  "title": "Test Module Please Ignore",
+  "description": "",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Kim Mantas"
+    }
+  ], 
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10
+  },
+  "manifest": "https://raw.githubusercontent.com/Fyorl/test-module/main/module.json",
+  "download": "https://github.com/Fyorl/test-module/archive/refs/tags/1.0.zip"
+}
